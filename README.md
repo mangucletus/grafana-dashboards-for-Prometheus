@@ -1,4 +1,4 @@
-# Prometheus & Grafana DevOps Lab
+# Prometheus and Grafana Lab
 
 THis is a complete monitoring stack using Prometheus, Node Exporter, and Grafana with Docker Compose.
 
